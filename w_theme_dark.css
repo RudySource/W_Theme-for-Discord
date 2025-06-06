@@ -263,7 +263,7 @@ body {
 
 	/* base colors */
 	--red-1: oklch(75% 0.13 0);
-	--red-2: oklch(70% 0.13 0);
+	--red-2: oklch(0.6 0.233 11.36);
 	--red-3: oklch(65% 0.13 0);
 	--red-4: oklch(60% 0.13 0);
 	--red-5: oklch(55% 0.13 0);
